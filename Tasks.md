@@ -10,7 +10,7 @@ The plan behind this Instagram collection importer is that it's linked with othe
 - the user should prove that he owns both the accounts (by either logging in by Instagram pop-up or google pop-up; or provide the credentials to the website/page)
 - either with a headless chrome engine or some Instagram API or selenium
 
-- Pick which programming language you will use (typescript{bun},python,go,php)
+- Pick which programming language you will use (typescript{bun},python,go,php) : picked PHP
 
 ## Steps
 
